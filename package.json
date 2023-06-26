@@ -1,0 +1,7 @@
+{
+  "name": "three-js-practice",
+  "version": "1.0.0",
+  "description": "three.jsの練習",
+  "main": "index.js",
+  "license": "MIT"
+}
